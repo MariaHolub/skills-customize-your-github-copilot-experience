@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "searching-sorting",
+      "title": "Searching & Sorting Fundamentals",
+      "description": "Implement and compare linear vs. binary search and bubble vs. insertion sort.",
+      "path": "assignments/searching-sorting",
+      "dueDate": "2026-06-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
